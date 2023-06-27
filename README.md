@@ -31,7 +31,7 @@ their preferred programs and open frequently visited browser URLs with just a si
   
 - **User-Friendly Interface:** WorkSpaceDeployer provides an intuitive and visually appealing user interface, ensuring a seamless user experience.
 
-- - **Light Weight Pre-packaged Java Runtime Enviroment:** A JRE is provided so the user doesn't need to worry about having a JRE install on their
+- **Light Weight Pre-packaged Java Runtime Enviroment:** A JRE is provided so the user doesn't need to worry about having a JRE install on their
     device.
 
 ## Installation

@@ -1,0 +1,2 @@
+JAVA_VERSION="17.0.4"
+MODULES="java.base com.fasterxml.jackson.annotation com.fasterxml.jackson.core java.datatransfer java.xml java.prefs java.desktop com.fasterxml.jackson.databind javafx.base jdk.unsupported javafx.graphics javafx.controls java.scripting javafx.fxml jdk.crypto.ec com.example.wsd"

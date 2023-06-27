@@ -66,5 +66,6 @@ You can also explore the [GitHub repository](https://github.com/RecursionExcursi
 
 ## Java Code Repository
 
-The Java code for WorkSpaceDeployer can be found in the [Java Code Repository](https://github.com/RecursionExcursion/WSD_NoUpdater). 
+The Java code for WorkSpaceDeployer can be found [here](https://github.com/RecursionExcursion/WSD_NoUpdater). 
+
 Make sure to check it out for a deeper understanding of the implementation details.

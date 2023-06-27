@@ -1,8 +1,8 @@
 # WorkSpaceDeployer - Portfolio Project
 
 WorkSpaceDeployer is a portfolio project developed by Ryan Loupee as a showcase of technical skills and expertise. It is a desktop application for
-Windows that aims to simplify and automate the process of setting up a personalized work environment. With WorkSpaceDeployer, users can deploy
-their preferred programs and open frequently visited browser URLs with just a single click.
+Windows made with JavaFX that aims to simplify and automate the process of setting up a personalized work environment. 
+With WorkSpaceDeployer, users can deploy their preferred programs and open frequently visited browser URLs with just a single click.
 
 ## Table of Contents
 

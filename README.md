@@ -18,10 +18,15 @@ their preferred programs and open frequently visited browser URLs with just a si
 
 - **One-Click Workspace Setup:** Easily deploy your personalized work environment by installing selected programs and opening browser URLs with a
    single click.
+
+  ![Mainpage](https://github.com/RecursionExcursion/WorkspaceDeployer/assets/104308659/c6a7d97b-4a7b-4c8f-8158-2d66fa5a0434)
+
   
 - **Program Deployment:** Specify the essential programs and tools you frequently use, and WorkSpaceDeployer will run their executables.
 - **Customizable Browser URLs:** Save and organize your frequently visited websites, online resources, and portfolio links for quick access.
   
+  ![New](https://github.com/RecursionExcursion/WorkspaceDeployer/assets/104308659/0f72c003-ccc7-41ac-9f85-1514277cd68f)
+
 - **Configuration Management:** Save and load different workspace configurations to switch between various work contexts effortlessly.
   
 - **User-Friendly Interface:** WorkSpaceDeployer provides an intuitive and visually appealing user interface, ensuring a seamless user experience.

@@ -31,13 +31,16 @@ their preferred programs and open frequently visited browser URLs with just a si
   
 - **User-Friendly Interface:** WorkSpaceDeployer provides an intuitive and visually appealing user interface, ensuring a seamless user experience.
 
+- - **Light Weight Pre-packaged Java Runtime Enviroment:** A JRE is provided so the user doesn't need to worry about having a JRE install on their
+    device.
+
 ## Installation
 
 To experience WorkSpaceDeployer on your Windows system, follow these steps:
 
 1. Download the latest release of WorkSpaceDeployer from the [releases page](https://github.com/RecursionExcursion/WorkspaceDeployer/releases).
 2. Extract the downloaded archive to a directory of your choice.
-3. Run the executable file (`WorkSpaceDeployer.exe`) to launch the application.
+3. Run the executable file `WorkSpaceDeployer.exe` to launch the application.
 
 ## Usage
 
